@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/s55"
+        android:title="55 dp" />
+    <item android:id="@+id/s25"
+        android:title="25 dp" />
+    <item android:id="@+id/remove_size"
+        android:title="Normal" />
+</menu>

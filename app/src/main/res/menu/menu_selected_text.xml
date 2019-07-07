@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ContextualActionModeTestOneActivity_select_all"
+        android:icon="@drawable/ic_content_select_all_black_24dp"
+        android:title="Select All"
+        android:titleCondensed="Select All"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/ContextualActionModeTestOneActivity_copy"
+        android:icon="@drawable/ic_content_copy_black_24dp"
+        android:title="Copy"
+        android:titleCondensed="Copy"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/ContextualActionModeTestOneActivity_paste"
+        android:icon="@drawable/ic_content_paste_black_24dp"
+        android:title="Paste"
+        android:titleCondensed="Paste"
+        app:showAsAction="ifRoom|withText" />
+
+</menu>

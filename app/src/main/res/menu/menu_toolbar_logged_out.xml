@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/login_toolbar_menu"
+        android:title="Login"
+        android:icon="@drawable/action_ic_lock_outline_black_24dp"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/about_toolbar_menu"
+        android:title="About"
+        android:icon="@drawable/action_ic_info_outline_black_24dp"
+        app:showAsAction="ifRoom"/>
+</menu>

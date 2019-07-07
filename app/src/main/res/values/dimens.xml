@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="txt_size_medium">16sp</dimen>
+    <dimen name="txt_size_small">14sp</dimen>
+    <dimen name="txt_size_extra_small">10sp</dimen>
+    <dimen name="txt_size_large">20sp</dimen>
+    <dimen name="txt_size_xlarge">23sp</dimen>
+    <dimen name="txt_size_very_small">11sp</dimen>
+
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_large">12dp</dimen>
+    <dimen name="margin_x_large">16dp</dimen>
+
+    <dimen name="padding_medium">5dp</dimen>
+    <dimen name="padding_large">10dp</dimen>
+    <dimen name="padding_small">3dp</dimen>
+
+
+    <!-- Custom sidebar dimens dimens -->
+    <dimen name="layout_paddingLeft">12dp</dimen>
+    <dimen name="layout_paddingRight">12dp</dimen>
+    <dimen name="sidebar_paddingLeft">8dp</dimen>
+    <dimen name="sidebar_paddingRight">5dp</dimen>
+
+</resources>

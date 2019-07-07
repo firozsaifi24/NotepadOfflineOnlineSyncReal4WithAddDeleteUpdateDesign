@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/font1"
+        android:title="eiffela" />
+    <item android:id="@+id/font2"
+        android:title="Wrong Hunt" />
+    <item android:id="@+id/remove_font"
+        android:title="Normal" />
+</menu>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/welcome_name_toolbar_menu"
+        android:title="Hi Name!"
+        android:icon="@drawable/action_ic_person_black_24dp"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/sync_toolbar_menu"
+        android:title="Sync"
+        android:icon="@drawable/action_ic_sync_black_24dp"
+        app:showAsAction="ifRoom"   />
+    <item android:id="@+id/logout_toolbar_menu"
+        android:title="Logout"
+        android:icon="@drawable/action_ic_lock_outline_black_24dp"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/about_toolbar_menu"
+        android:title="About"
+        android:icon="@drawable/action_ic_info_outline_black_24dp"
+        app:showAsAction="ifRoom" />
+</menu>
